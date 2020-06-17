@@ -8,8 +8,6 @@ Primarily a backend engineer, I love me some Python and Javascript. Go has also 
 
 I'm the current lead of [@Code4PuertoRico](https://github.com/Code4PuertoRico) and also one of the founders of [Fullstack Nights](https://fullstacknights.com/), a meetup in Puerto Rico that brings together the developer and design communities.
 
-<img src="https://avatars0.githubusercontent.com/u/6626422?s=200&v=4" width="200px" /> <img src="https://avatars0.githubusercontent.com/u/16525771?s=200&v=4" width="200px" />
-
 As a hobby I stream live coding session on [Twitch](https://twitch.tv/froidotdev) and produce the [FSN podcast](https://fullstacknights.com/).
 
 ## Projects I'm currently into
