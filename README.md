@@ -1,6 +1,8 @@
-# Hi I'm Froi
+# Hi I'm Froi :wave:
 
-Current GitHubber and a Code.gov & USDS Alumni. For the past seven years I've been heavily involved with civic and gov. tech both in Puerto Rico and Washington DC.
+Current GitHubber and a [Code.gov](https://code.gov) & [USDS](https://usds.gov) Alumni. For the past seven years I've been heavily involved with civic and gov. tech both in Puerto Rico and Washington DC.
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200px" /> <img src="https://avatars0.githubusercontent.com/u/8751968?s=200&v=4" width="200px" /> <img src="https://pbs.twimg.com/profile_images/892029865884622849/396oAxdc_400x400.jpg" width="200px" />
 
 Primarily a backend engineer, I love me some Python and Javascript. Go has also become a nice go to language which I'm still learning and bashing my head against.
 
@@ -24,12 +26,12 @@ Feel free to follow me on [Twitch](https://twitch.tv/froidotdev) as well.
 
 ## Code 4 Puerto Rico
 
-We're a group of civic minded people in Puerto Rico and the diaspora that use technology to help our communities back home. We are part of the Code for America brigade network.
+![Code 4 Puerto Rico logo](https://avatars0.githubusercontent.com/u/6626422?s=200&v=4) We're a group of civic minded people in Puerto Rico and the diaspora that use technology to help our communities back home. We are part of the Code for America brigade network.
 
 [All our projects are open source](https://github.com/Code4PuertoRico)
 
 ## Fullstack Nights
 
-A biweekly meetup in Puerto Rico that brings together the developer and design community. Our meetups are an informal get together to learn and share our community's knowledge and create new friends.
+![Fullstack Nights logo](https://avatars0.githubusercontent.com/u/16525771?s=200&v=4) A biweekly meetup in Puerto Rico that brings together the developer and design community. Our meetups are an informal get together to learn and share our community's knowledge and create new friends.
 
 [Visit our website to read all about it.](https://fullstacknights.com)
