@@ -26,12 +26,24 @@ Feel free to follow me on [Twitch](https://twitch.tv/froidotdev) as well.
 
 ## Code 4 Puerto Rico
 
-![Code 4 Puerto Rico logo](https://avatars0.githubusercontent.com/u/6626422?s=200&v=4) We're a group of civic minded people in Puerto Rico and the diaspora that use technology to help our communities back home. We are part of the Code for America brigade network.
+<table>
+  <tr>
+    <td><img src="https://avatars0.githubusercontent.com/u/6626422?s=200&v=4" width="200px" /></td>
+    <td>We're a group of civic minded people in Puerto Rico and the diaspora that use technology to help our communities back home. We are part of the Code for America brigade network.
+    </td>
+  </tr>
+</table>
 
 [All our projects are open source](https://github.com/Code4PuertoRico)
 
 ## Fullstack Nights
 
-![Fullstack Nights logo](https://avatars0.githubusercontent.com/u/16525771?s=200&v=4) A biweekly meetup in Puerto Rico that brings together the developer and design community. Our meetups are an informal get together to learn and share our community's knowledge and create new friends.
+<table>
+  <tr>
+    <td><img src="https://avatars0.githubusercontent.com/u/16525771?s=200&v=4" width="200px" /></td>
+    <td>A biweekly meetup in Puerto Rico that brings together the developer and design community. Our meetups are an informal get together to learn and share our community's knowledge and create new friends.
+    </td>
+  </tr>
+</table>
 
 [Visit our website to read all about it.](https://fullstacknights.com)
