@@ -47,3 +47,5 @@ Feel free to follow me on [Twitch](https://twitch.tv/froidotdev) as well.
 </table>
 
 [Visit our website to read all about it.](https://fullstacknights.com)
+
+![I voted Octocat](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
