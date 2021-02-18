@@ -12,9 +12,7 @@ As a hobby I stream live coding session on [Twitch](https://twitch.tv/froidotdev
 
 ## Just for fun
 
-Here's my contribution skyline for 2020. You can make your own at https://skyline.github.com and here's [how to use the 3D viewer](https://docs.github.com/en/github/managing-files-in-a-repository/3d-file-viewer).
-
-<script src="https://embed.github.com/view/3d/froi/froi/main/assets/froi-2020.stl"></script>
+Here's my [contribution skyline for 2020](https://github.com/froi/froi/blob/main/assets/froi-2020.stl). You can make your own at https://skyline.github.com and here's [some doc for the 3D viewer](https://docs.github.com/en/github/managing-files-in-a-repository/3d-file-viewer).
 
 ## Projects I'm currently into
 
