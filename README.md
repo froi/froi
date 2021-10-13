@@ -7,7 +7,7 @@ Thanks for taking a look at my profile here. I'm slowly moving everything about 
 <table>
   <tr>
     <td><a href="https://code4puertorico.org"><img src="https://avatars0.githubusercontent.com/u/6626422?s=200&v=4" width="200px" /></a></td>
-    <td>We're a group of civic minded people in Puerto Rico and the diaspora that use technology to help our communities back home. We are part of the Code for America brigade network. <a href="https://github.com/Code4PuertoRico">All our projects are open source. Take a lool!</a>
+    <td>We're a group of civic minded people in Puerto Rico and the diaspora that use technology to help our communities back home. We are part of the Code for America brigade network. <a href="https://github.com/Code4PuertoRico">All our projects are open source. Take a look!</a>
     </td>
   </tr>
 </table>
