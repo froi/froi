@@ -26,4 +26,4 @@ Thanks for taking a look at my profile here. I'm slowly moving everything about 
 
 ## How to keep in touch
 
-For now my two mediums of choice are [Twitter](https://twitter.com/froidotdev) and [LinkedIn](https://www.linkedin.com/in/froilanirizarry/). That might change in the future but for now it's where I'm most active.
+For now my two mediums of choice are ~[Twitter](https://twitter.com/froidotdev)~(taking a break) and [LinkedIn](https://www.linkedin.com/in/froilanirizarry/). That might change in the future but for now it's where I'm most active.
