@@ -3,5 +3,6 @@
     "label": "LinkedIn",
     "message": "Froilán Irizarry Rivera",
     "color": "#0A66C2",
-    "namedLogo": "linkedin"
+    "namedLogo": "linkedin",
+    "cacheSeconds": 300
 }
