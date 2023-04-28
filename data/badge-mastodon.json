@@ -4,5 +4,6 @@
     "message": "@froi",
     "color": "#585AFF",
     "namedLogo": "mastodon",
+    "style": "for-the-badge",
     "cacheSeconds": 300
 }
