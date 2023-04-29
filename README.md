@@ -2,6 +2,8 @@
 
 Thanks for taking a look at my profile here. I'm slowly moving everything about me to [froi.dev](https://froi.dev) but here are a couple of things I care about
 
+![linkedin/@froilanirizarry](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Ffroi%2Ffroi%2Fmain%2Fdata%2Fbadge-linkedin.json)
+![mastodon.social/@froi](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Ffroi%2Ffroi%2Fmain%2Fdata%2Fbadge-mastodon.json)
 ## Code 4 Puerto Rico
 
 <table>
